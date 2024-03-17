@@ -78,4 +78,7 @@ dataset/05.12_dataset (7 days)
 2. *.CSV - GL-900APS plant's activity data
 3. labeled_data.pth - data sampled for binary classification by data_preprocessing.py
 
+dataset/2023-10-19 (10 minutes for testing)
+dataset/2023-09-27 (1 day for testing)
+
 v 17.03.2024

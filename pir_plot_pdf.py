@@ -8,7 +8,7 @@ Program for visual check PIR (motion sensor) data
 preparing document in .pdf format
 '''
 
-PIR_FOLDER = '2023-09-27'
+PIR_FOLDER = 'dataset/2023-09-27'
 PIR_FILE = 'r2023-09-27_pir_log.txt'
 
 if __name__ == '__main__':

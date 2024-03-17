@@ -6,7 +6,7 @@ import os
 Program for visual check PIR (motion sensor) data 
 '''
 
-PIR_FILE = '/home/renas/pythonprogv2/pir/2023-10-19/2023-10-19 17_15_51pir_log.txt'
+PIR_FILE = 'dataset/2023-10-19/2023-10-19 17_15_51pir_log.txt'
 
 if __name__ == '__main__':
     current_directory = os.getcwd()

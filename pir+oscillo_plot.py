@@ -9,8 +9,8 @@ OSCILLO flower voltage activity together with
 PIR (motion sensor) data
 '''
 
-OSCILLO_FILE = '/home/renas/pythonprogv2/pir_project/dataset/2023-10-18/2023-10-18_15_20_56.CSV'
-PIR_FILE = '/home/renas/pythonprogv2/pir_project/dataset/2023-10-18/2023-10-18 15_14_34pir_log.txt'
+OSCILLO_FILE = 'dataset/2023-11-29/2023-11-29_11_01_25.CSV'
+PIR_FILE = 'dataset/2023-11-29/2023-11-29 10_57_32pir_log.txt'
 
 if __name__ == '__main__':
     current_directory = os.getcwd()
