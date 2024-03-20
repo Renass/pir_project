@@ -66,7 +66,7 @@ pir+oscillo_plot.py - Oscilloscope and Motion sensor data matplotlib.plt
 data_preprocessing make sampling from large time series to samples of affected(first half of sample has motion sensor trigger)/not affected (no motion sensor trigger during all sample time) plant's activity  
 5. ML experiments. For example: transformer.py 
 
-Datasets:
+# Datasets
 
 dataset/2023-11-29 (7 days) 
 1. *pir_log.txt - pir motion sensor data
@@ -82,4 +82,4 @@ dataset/05.12_dataset (7 days)
 dataset/2023-10-19 (10 minutes for testing)
 dataset/2023-09-27 (1 day for testing)
 
-v 17.03.2024
+v 20.03.2024
