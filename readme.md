@@ -3,7 +3,8 @@ This repo is code source for gathering data of:
 1. plant activity (time-voltage) time series
 2. passive infrared (pir) motion sensor data
 
-pir example: https://www.amazon.co.jp/-/en/HC-SR501PIR-Infrared-Detector-Mounting-RaspberryPi/dp/B09WVDYZMP/ref=sr_1_57?crid=19GGG4VFT6JT7&dib=eyJ2IjoiMSJ9.xCkvXyJnQr4gSjJhrScX-xB153vmaKlUkgOBKnIu42Wk_hgMeNN1nnxWOS8D_9DHNTFSwIskaLiQrFqRJEoL2bgiGbPh9TEih17cR9TuuQw.k2c-X25K2pbUx3IyM-fgS2ZP5wnYIWWOLLc9spCFNpI&dib_tag=se&keywords=pir&qid=1710408634&sprefix=pir%2Caps%2C164&sr=8-57
+pir example: 
+[amazon japan link](https://www.amazon.co.jp/-/en/HC-SR501PIR-Infrared-Detector-Mounting-RaspberryPi/dp/B09WVDYZMP/ref=sr_1_57?crid=19GGG4VFT6JT7&dib=eyJ2IjoiMSJ9.xCkvXyJnQr4gSjJhrScX-xB153vmaKlUkgOBKnIu42Wk_hgMeNN1nnxWOS8D_9DHNTFSwIskaLiQrFqRJEoL2bgiGbPh9TEih17cR9TuuQw.k2c-X25K2pbUx3IyM-fgS2ZP5wnYIWWOLLc9spCFNpI&dib_tag=se&keywords=pir&qid=1710408634&sprefix=pir%2Caps%2C164&sr=8-57)
 
 
 # Target 
